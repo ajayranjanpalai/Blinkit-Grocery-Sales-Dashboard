@@ -153,7 +153,7 @@ assets/
 
 Then display it in this README with:
 
-![Blinkit Grocery Sales Dashboard](assets/blinkit-dashboard.png)
+![Blinkit Grocery Sales Dashboard](https://github.com/ajayranjanpalai/Blinkit-Grocery-Sales-Dashboard/tree/main/assets)
 
 📁 Recommended Repository Structure
 
